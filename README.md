@@ -1,6 +1,9 @@
 # Hospital-Database-SQL
 ![image](https://user-images.githubusercontent.com/71986409/179974564-b038eb2e-a7d0-4238-90fc-d2323a31a7dd.png)
-Tables-
+
+
+
+#Tables-
 
 Position- Has basic position information which includes the following attributes: a. idposition – INT (PRIMARY KEY) b. position_type – VARCHAR
 
