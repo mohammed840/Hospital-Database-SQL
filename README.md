@@ -3,7 +3,7 @@
 
 
 
-#Tables-
+# Tables
 
 Position- Has basic position information which includes the following attributes: a. idposition – INT (PRIMARY KEY) b. position_type – VARCHAR
 
