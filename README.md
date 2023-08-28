@@ -1,6 +1,7 @@
 # Hospital-Database-SQL
 ![image](https://user-images.githubusercontent.com/71986409/179974564-b038eb2e-a7d0-4238-90fc-d2323a31a7dd.png)
 
+# Grade: A+
 
 
 # Tables
